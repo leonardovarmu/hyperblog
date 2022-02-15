@@ -16,3 +16,4 @@ niñita
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 *  Creado por el increible paltzi team
+* Incluye ejemplos en windows linux y mac
