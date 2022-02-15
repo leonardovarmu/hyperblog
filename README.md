@@ -17,3 +17,4 @@ niñita
 * Disponible para todas las edades
 *  Creado por el increible paltzi team
 * Incluye ejemplos en windows linux y mac
+* Disponoible para todas las edades
